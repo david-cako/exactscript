@@ -19,5 +19,5 @@ ExactScript's goal is to be simple, opaque, precise, and consumable.
 
 ExactScript is inspired by Wikipedia, Golang, Unix, Linux, Oxford Very Short Introductions, Apple's human interface rigidity (not looking too good right now boys), Microsoft's recent acute awareness of developer pain points (TypeScript, WSL, CLR -- embrace extend extinguish), and the band Tool.
 
-ExactScript source code is open source and has no restrictions for use in either (1) private or (2) derivative and non-competing use.[why?]  Following my death, ExactScript's source code may henceforth be used in a competing service.
+ExactScript source code and design guidelines are open source and have no restrictions for use in either (1) private or (2) derivative and non-competing use.[why?]  Following my death, ExactScript's source code and design guidelines may henceforth be used in a competing service.
 
